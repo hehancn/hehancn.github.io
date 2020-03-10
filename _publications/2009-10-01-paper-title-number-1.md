@@ -10,6 +10,6 @@ citation: '你'
 ---
 沧海是阿斯顿安定按时
 
-[点击下载](http://academicpages.github.io/files/paper1.pdf)
+[点击下载](http://hehancn.github.io/files/paper1.pdf)
 
 Recommended citation: 啊啊.
