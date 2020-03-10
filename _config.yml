@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "cn-China"
-title                    : "何遗的主页"
+locale                   : "zn-China"
+title                    : "何遗"
 title_separator          : "-"
 name                     : &name "何遗"
-description              : &description "我不求人富贵,人需求我文章"
+description              : &description "概率爱好者"
 url                      : https://hehancn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hehancn/hehancn.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "何遗"
   avatar           : "profile.png"
-  bio              : "测试"
+  bio              : "概率爱好者"
   location         : "中国"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
