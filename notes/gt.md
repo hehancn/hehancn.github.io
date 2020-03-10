@@ -1,7 +1,7 @@
 ---
 title: "点集拓扑笔记"
 collection: 笔记
-permalink: /notes/点集拓扑
+permalink: /notes/
 ---
 沧海是阿斯顿安定按时
 
