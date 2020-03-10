@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "笔记"
-    url: /teaching/   
+    url: /notes/   
   
         
   - title: "随笔"
-    url: /year-archive/
+    url: /articles/
     
   - title: "简历"
     url: /cv/
