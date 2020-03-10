@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "个人简介"
-excerpt: ""
+excerpt: "w"
 author_profile: true
 redirect_from: 
   - /about/
