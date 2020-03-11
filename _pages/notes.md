@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-这里写东西 ? 
-
-
 {% include base_path %}
 
-
+{% for post in site.notes reversed %}
+  {% include archive-single.html %}
+{% endfor %}
