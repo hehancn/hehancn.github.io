@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "何憾"
+title                    : "欢迎访问何憾的个人页 !"
 title_separator          : "-"
-name                     : &name "何憾"
+name     :      &name "何憾"
 description              : &description "概率爱好者"
 url                      : https://hehancn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ author:
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
  # stackoverflow    : # http://stackoverflow.com/users/123456/username
