@@ -17,7 +17,7 @@ author_profile: true
 
 - **应用随机过程**(英文) : 内容是离散, 连续时间的马氏链, 布朗运动. 主要参考了 *Markov Chinas*, Norris ; 《应用随机过程》,钱敏平，龚光鲁，陈大岳，章复熹. [点击下载](http://hehancn.github.io/files/asc.pdf)
 
-- 高等概率论(英文) : 主要参考了*Probability :Theorey and Examples*, Durret . [点击下载](http://hehancn.github.io/files/pt.pdf)
+- **高等概率论**(英文) : 主要参考了*Probability :Theorey and Examples*, Durret . [点击下载](http://hehancn.github.io/files/pt.pdf)
 
 - 泛函分析 :  仍在撰写中...
 
