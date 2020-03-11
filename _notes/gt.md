@@ -1,6 +1,6 @@
 ---
 title: "点集拓扑笔记"
-collection: notes
+collection: 笔记
 permalink: /notes/gt
 ---
 测试
