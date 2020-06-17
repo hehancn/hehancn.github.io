@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-
-
  这是我的学习笔记. 才疏学浅, 肯定有不少错误, 用侧边栏的邮件告诉我吧 ^_^
 
 ***********
@@ -18,9 +16,7 @@ author_profile: true
 
 - **高等概率论**(英文) : 内容是大数定律, 中心极限定理. 主要参考了*Probability :Theorey and Examples*, Durret . [点击下载](http://hehancn.github.io/files/Advanced Theory of Probability.pdf)
 
-- **随机过程论**(英文) : 内容: 离散时间鞅, 遍历定理, 布朗运动. 参考了*Probability :Theorey and Examples*, Durret.[点击下载](http://hehancn.github.io/files/StochasticProcessesNotes.pdf)
-
-
+- **随机过程论**(英文) : 内容: 离散时间鞅, 遍历定理, 布朗运动. 主要参考了*Probability :Theorey and Examples*, Durret. [点击下载](http://hehancn.github.io/files/StochasticProcessesNotes.pdf)
 
 - 点集拓扑 :  本笔记时间较久远, 比较简陋, 只记录了定义定理, 没有证明.  [点击下载](http://hehancn.github.io/files/functional analysis notes.pdf)
 
