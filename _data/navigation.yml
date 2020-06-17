@@ -8,7 +8,7 @@ main:
   - title: "随笔"
     url: /year-archive/
     
-  - title: "简历"
-    url: /cv/
+  # - title: "简历"
+  #   url: /cv/
     
  
