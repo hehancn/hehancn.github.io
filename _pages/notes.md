@@ -18,7 +18,7 @@ author_profile: true
 
 - **随机过程论笔记**(英文) : 内容: 离散时间鞅, 遍历定理, 布朗运动. 主要参考了*Probability :Theorey and Examples*, Durret. [点击下载](http://hehancn.github.io/files/StochasticProcessesNotes.pdf)
 
-- 点集拓扑笔记 :  本笔记时间较久远, 比较简陋, 只记录了定义定理, 没有证明.  [点击下载](http://hehancn.github.io/files/functional analysis notes.pdf)
+- 点集拓扑笔记 :  本笔记时间较久远, 比较简陋, 只记录了定义定理, 没有证明.  [点击下载](http://hehancn.github.io/files/gt.pdf)
 
 ***********
 ## 预告
