@@ -10,9 +10,9 @@ author_profile: true
 
 ***********
 
--  **测度论笔记** : 主要参考的书是 *《测度论与概率论基础》*, 程士宏 ; *《测度论讲义》*, 严家安.  [点击下载](http://hehancn.github.io/files/Measure Thoery.pdf)
+-  **测度论笔记** : 主要参考的书是 *《测度论与概率论基础》*, 程士宏 ; *《测度论讲义》*, 严家安.  [点击下载](http://hehancn.github.io/files/MeasureThoery.pdf)
 
-- **应用随机过程笔记**(英文) : 内容是离散, 连续时间, 可数状态空间的马氏链理论与布朗运动简介. 主要参考了 *Markov Chians*, Norris ;  *《应用随机过程》* ,钱敏平，龚光鲁，陈大岳，章复熹. [点击下载](http://hehancn.github.io/files/asc.pdf)
+- **应用随机过程笔记**(英文) : 内容是离散, 连续时间, 可数状态空间的马氏链理论与布朗运动简介. 主要参考了 *Markov Chians*, Norris ;  *《应用随机过程》* ,钱敏平，龚光鲁，陈大岳，章复熹. [点击下载](http://hehancn.github.io/files/Introduction to Stochastic Processes.pdf)
 
 - **高等概率论笔记**(英文) : 内容是大数定律, 中心极限定理. 主要参考了*Probability :Theorey and Examples*, Durret . [点击下载](http://hehancn.github.io/files/Advanced Theory of Probability.pdf)
 
