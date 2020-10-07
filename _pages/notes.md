@@ -25,10 +25,10 @@ author_profile: true
 
 - 泛函分析笔记 :    [点击下载草稿](http://hehancn.github.io/files/FunctionAnalysisNotes.pdf) 
 
-- 马尔科夫过程笔记 
+- 马尔科夫过程笔记  [点击下载草稿](http://hehancn.github.io/files/MarkovProcesses.pdf) 
 
 
-- 重温微积分 
+- 重温微积分 [点击下载草稿](http://hehancn.github.io/files/ReviewCalculus.pdf) 
 
 
 {% include base_path %}
