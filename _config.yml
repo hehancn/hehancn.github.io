@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "2478483796@qq.com"
+    email                : "hubugui1914@gmail.com"
   generatedFields:
     date:
       type               : "date"
